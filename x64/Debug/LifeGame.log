@@ -1,0 +1,9 @@
+﻿  Game.c
+C:\prog\c prod\LifeGame\Game.c(43,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\prog\c prod\LifeGame\Game.c(43,9): message : consider using '%zd' in the format string
+C:\prog\c prod\LifeGame\Game.c(44,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\prog\c prod\LifeGame\Game.c(44,9): message : consider using '%zd' in the format string
+C:\prog\c prod\LifeGame\Game.c(45,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\prog\c prod\LifeGame\Game.c(45,9): message : consider using '%zd' in the format string
+C:\prog\c prod\LifeGame\Game.c(36,12): warning C4101: 'headOfDIB': unreferenced local variable
+  LifeGame.vcxproj -> C:\prog\c prod\LifeGame\x64\Debug\LifeGame.exe
